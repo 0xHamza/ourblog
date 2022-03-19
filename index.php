@@ -21,14 +21,14 @@
 
 
         <div class="container">    
-          <a class="navbar-brand" href="index.html">Our Blog!</a>
+          <a class="navbar-brand" href="./">Our Blog!</a>
           <button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars"></i>
           </button>
             <div
                 class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="./">Home</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="about.html">About us</a></li>
                 </ul>
         </div>
