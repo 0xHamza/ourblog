@@ -171,17 +171,16 @@
      
          <!--SLİDE İTEM-->
         <div class="news-slider__item swiper-slide" >
-          <a href="#" class="news__item">
+          <a href="icerik.html" class="news__item">
             <div class="news-date float-start">
-				<span class="news-date__title">
-					24 May
-				</span>
+              <span class="news-date__title">
+                24 May
+              </span>
             </div>
-			
-			<span class="badge badge-pill badge-warning float-right">
-				<i class="fa fa-eye" aria-hidden="true"></i> 1258
-			</span>
-			
+            <span class="badge badge-pill badge-warning float-right">
+              <i class="fa fa-eye" aria-hidden="true"></i> 1258
+            </span>
+
             <div class="news__title">
               Lorem Ipsum Dolor Sit Amed
             </div>
@@ -198,7 +197,7 @@
 
          <!--SLİDE İTEM-->
         <div class="news-slider__item swiper-slide">
-          <a href="#" class="news__item">
+          <a href="icerik.html" class="news__item">
             <div class="news-date float-start">
 				<span class="news-date__title">
 					24 May 
@@ -225,7 +224,7 @@
 
         <!--SLİDE İTEM-->
         <div class="news-slider__item swiper-slide">
-          <a href="#" class="news__item">
+          <a href="icerik.html" class="news__item">
             <div class="news-date float-start">
 				<span class="news-date__title">
 					24 May
@@ -325,7 +324,7 @@
                           <i class="fa fa-eye" aria-hidden="true"></i> 999
                         </span>
                       <br>
-                        <a href="#"> <h2>Man must explore, and this is exploration at its greatest</h2></a>
+                        <a href="icerik.html"> <h2>Man must explore, and this is exploration at its greatest</h2></a>
                         <p class="post-aciklama">Problems look mighty small from 150 miles up.</p>
                        
                         <div class="d-flex justify-content-between align-items-center py-2">
@@ -351,7 +350,7 @@
                       </span>
                     <br>
 
-                      <a href="#"> <h2>Title</h2></a>
+                      <a href="icerik.html"> <h2>Title</h2></a>
                       <p class="post-aciklama">I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.</p>
                       <div class="d-flex justify-content-between align-items-center py-2">
                         <span class="text-center tasmayiEngelle"> <img class="avatar" src="https://i.pravatar.cc/403" alt=""> 
@@ -383,7 +382,7 @@
                       </span>
                     <br>
 
-                      <a href="#"> <h2>Science has not yet mastered prophecy</h2></a>
+                      <a href="icerik.html"> <h2>Science has not yet mastered prophecy</h2></a>
                       <p class="post-aciklama">We predict too much for the next year and yet far too little for the next ten.</p>
                       <div class="d-flex justify-content-between align-items-center py-2">
                         <span class="text-center tasmayiEngelle"> <img class="avatar" src="https://i.pravatar.cc/404" alt=""> 
@@ -408,7 +407,7 @@
                         </span>
                       <br>
 
-                        <a href="#"> <h2>Failure is not an option</h2></a>
+                        <a href="icerik.html"> <h2>Failure is not an option</h2></a>
                         <p class="post-aciklama">Many say exploration is part of our destiny, but it’s actually our duty to future generations.</p>
                         <div class="d-flex justify-content-between align-items-center py-2">
                           <span class="text-center tasmayiEngelle"> <img class="avatar" src="https://i.pravatar.cc/405" alt=""> 
