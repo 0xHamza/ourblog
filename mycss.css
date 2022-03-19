@@ -1,0 +1,118 @@
+.news__item.active  {
+    color: #222;
+    box-shadow: none;
+    background-color:white;/*secili olan background*/
+}
+
+.news__item:hover {
+    color: #222;
+	  background-color:white; /*secili olan backgrpund*/
+    transition-delay: .1s;
+  }
+
+.post-aciklama{
+      margin-top: 15px;
+      margin-bottom: 15px;
+}
+
+.post-tarih{
+    font-weight: 200;
+    font-size: 18px;
+    color:gray;
+    margin: 0px;
+}
+
+.post-baslik{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    border: 2px solid black ;
+
+    font-size: 25px;
+    
+}
+
+.yazilar:hover .post-baslik{
+    margin-left: -25px;
+    margin-right: -25px;
+    font-size: 30px;
+}
+
+.ortaSayfa{
+    background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+body{
+    overflow-x: hidden;
+}
+
+@media screen and (max-width:900px){
+    .toplist{
+        background-color: blue;
+        margin-top: 100px!important;
+    }
+}
+
+
+ul{
+    font-size: 15px; 
+    font-weight: 100;
+}
+
+li{
+    background-color: transparent!important;
+}
+
+.trend{
+    width: 36px;
+}
+
+.trend2{
+    width: 20px;
+}
+
+.avatar {   
+    width: 32px;
+    border-radius: 50%;
+  }
+
+  .avatar-buyuk {   
+    width: 64px;
+    border-radius: 50%;
+  }
+
+.masthead{
+    margin-bottom:0px;
+   
+}
+
+
+
+.post-yazar-resim{
+    width: 50px;
+}
+
+.back{
+    /*background-image: linear-gradient(135deg, white, lightgreen, darkblue);*/
+    background-image: linear-gradient(45deg,rgba(209,0,42,.6) 0,#0E5DC4 100%)!important;
+  }
+  
+
+  .tasmayiEngelle{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+.zoomla:hover{
+    transform: scale(1.17);
+    transition: 1.5s;
+}
+
+.icerik-baslik h1{
+      font-size: 50px!important;
+}
+
+.icerik-baslik img{
+    max-height: 500px;
+}
